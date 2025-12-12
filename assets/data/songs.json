@@ -1,0 +1,16 @@
+[
+  {
+    "id": "lost_in_the_echo_linkin_park",
+    "title": "Lost in the Echo",
+    "artist": "Linkin Park",
+    "album": "Living Things",
+    "imageAsset": "assets/media/default_user.png"
+  },
+  {
+    "id": "numb_linkin_park",
+    "title": "Numb",
+    "artist": "Linkin Park",
+    "album": "Meteora",
+    "imageAsset": "assets/media/default_user.png"
+  }
+]
