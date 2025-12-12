@@ -39,8 +39,6 @@ app.*.symbols
 # Obfuscation related
 app.*.map.json
 
-# Android-specific sources kept locally (do not commit per project owner request)
-/android/
 
 # Platforms
 ios/
